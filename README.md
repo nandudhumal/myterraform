@@ -1,4 +1,4 @@
 # myterraform
 my terraform  journey 
 
-starting today 24 Jan 25 - Nandkumar 
+starting today 24 Jan 25 - Nandkumar Dhumal
